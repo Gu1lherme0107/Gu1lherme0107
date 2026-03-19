@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Lima;I'm+a+Web+Pentester;I'm+from+Brazil;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/volkerBR.png" alt="Seu crachá de imagem" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/vipgui3.png" alt="Seu crachá de imagem" />
 </div> 
 
 ### 💻 Tech Stack & Core Technologies:
